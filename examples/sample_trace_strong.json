@@ -1,0 +1,12 @@
+{
+  "prompt": "Solve: A train travels 60 km in 1.5 hours. What is its average speed in km/h?",
+  "steps": [
+    "First, recall that average speed is defined as total distance divided by total time, because speed measures how far something travels per unit of time.",
+    "The distance travelled is given as 60 km.",
+    "The time taken is given as 1.5 hours.",
+    "Since speed = distance / time, I compute 60 / 1.5.",
+    "60 / 1.5 = 40, which means the train covers 40 km for every hour it travels.",
+    "Therefore, the average speed is 40 km/h."
+  ],
+  "answer": "40 km/h"
+}

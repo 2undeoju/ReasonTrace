@@ -1,0 +1,9 @@
+{
+  "prompt": "Solve: A train travels 60 km in 1.5 hours. What is its average speed in km/h?",
+  "steps": [
+    "Use the formula.",
+    "Do the division.",
+    "Get the answer."
+  ],
+  "answer": "40 km/h"
+}

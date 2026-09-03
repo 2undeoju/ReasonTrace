@@ -1,0 +1,11 @@
+{
+  "prompt": "Solve: A train travels 60 km in 1.5 hours. What is its average speed in km/h?",
+  "steps": [
+    "Step one is to identify distance value.",
+    "Step two is to identify time value.",
+    "Step three is to apply formula correctly.",
+    "Step four is to compute the answer here.",
+    "Step five is to state final result now."
+  ],
+  "answer": "40 km/h"
+}
